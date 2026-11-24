@@ -1,4 +1,4 @@
-[stickman_v27 (4).html](https://github.com/user-attachments/files/35308563/stickman_v27.4.html)
+[stickman_v27_nuevo.html](https://github.com/user-attachments/files/35308758/stickman_v27_nuevo.html)
 <!DOCTYPE html>
 <html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
